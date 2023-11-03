@@ -14,7 +14,6 @@ Just another text editor app.
 - [Questions](#questions)
 
 ## Installation
-
 npm i
 
 ## Usage
