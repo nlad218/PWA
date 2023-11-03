@@ -14,6 +14,7 @@ Just another text editor app.
 - [Questions](#questions)
 
 ## Installation
+
 npm i
 
 ## Usage
@@ -36,7 +37,3 @@ npm run test
 
 If you have any questions please email me at nlad218@gmail.com
 If you want to see more of my work please visit me at [nlad218](https://github.com/nlad218)
-
-## Video link
-
-[Video Demo]
